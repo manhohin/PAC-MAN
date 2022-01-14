@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>sounds/pacman_beginning.wav</file>
+        <file>sounds/background.mp3</file>
+        <file>sounds/pacman_chomp.mp3</file>
+        <file>sounds/pacman_death.wav</file>
+        <file>sounds/pacman_eatghost.wav</file>
+        <file>sounds/eat_ghost_time.mp3</file>
+    </qresource>
+</RCC>
